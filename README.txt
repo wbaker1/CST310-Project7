@@ -1,4 +1,4 @@
-ReadME for Project7WB.cpp
+ReadME for CheckeredTriangle.cpp and ColorCubeFlyby.cpp
 
 Made by: Wesley Baker
 
